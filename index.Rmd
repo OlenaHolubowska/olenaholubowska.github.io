@@ -1,5 +1,0 @@
----
-title: "My Publications"
----
-
-List of my publications
