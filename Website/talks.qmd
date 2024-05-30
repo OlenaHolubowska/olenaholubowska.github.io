@@ -1,0 +1,58 @@
+---
+subtitle: "Talks & Presenations"
+about:
+  template: jolla
+  id: about-block
+---
+
+Coming:
+
++---------------------+-----------------------------------+----------------------------+
+| Title of the talk   | Name of the event                 | Date & place               |
++=====================+===================================+============================+
+| Places of diversity | AESOP congress                    | July, 2024, Paris, France  |
+|                     |                                   |                            |
+|                     | <https://aesop-planning.eu/paris> |                            |
++---------------------+-----------------------------------+----------------------------+
+| Places of diversity | Mobile Tartu                      | June, 2024, Tartu, Estonia |
+|                     |                                   |                            |
+|                     | <https://mobiletartu.ut.ee/>      |                            |
++---------------------+-----------------------------------+----------------------------+
+
+In the past:
+
++-------------------------------------------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------+
+| Title of the talk                                           | Name of the event                                                                                  | Date and place                       |
++=============================================================+====================================================================================================+======================================+
+| Segregation in Activity spaces                              | Seminar series within International Module in Spatial Development Planning                         | March 2024, Leuven, Belgium          |
+|                                                             |                                                                                                    |                                      |
+|                                                             | <https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_51671701.htm#activetab=diploma_omschrijving> |                                      |
++-------------------------------------------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------+
+| Segregation in Activity spaces                              | KU Leuven Urban Studies Institute                                                                  | March 2024, Leuven, Belgium          |
+|                                                             |                                                                                                    |                                      |
+|                                                             | <https://www.kuleuven.be/lusi>                                                                     |                                      |
++-------------------------------------------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------+
+| Segregation in Activity spaces                              | BROAD-ER winter school 2024                                                                        | January 2024, Amsterdam, Netherlands |
+|                                                             |                                                                                                    |                                      |
+|                                                             | <https://broad-er.eu/workshop/winter-school-2024/>                                                 |                                      |
++-------------------------------------------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------+
+| Methods for measuring segregation in activity spaces        | NPSO Innovatiedag                                                                                  | October 2023, The Hague, Netherlands |
+|                                                             |                                                                                                    |                                      |
+|                                                             | <https://www.npso.net/Evenementen/Aankomende-evenementen/npso-innovatiedag-6de-editie6th-edition>  |                                      |
++-------------------------------------------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------+
+| Segregation in Activity spaces                              | Mobility workshop at LIM                                                                           | October 2023, Leuven, Belgium        |
+|                                                             |                                                                                                    |                                      |
+|                                                             | [KU Leuven Institute for Mobility](https://www.kuleuven.be/lim)                                    |                                      |
++-------------------------------------------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------+
+| Bias in human mobility research                             | NetMob                                                                                             | September 2023, Madrid, Spain        |
+|                                                             |                                                                                                    |                                      |
+|                                                             | <https://netmob.org/>                                                                              |                                      |
++-------------------------------------------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------+
+| Relation between residential and activity space segregation | European Colloquium of Theoretical and Quantitative Geography                                      | September 2023, Braga, Portugal      |
+|                                                             |                                                                                                    |                                      |
+|                                                             | <http://www.ectqg.eu/>                                                                             |                                      |
++-------------------------------------------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------+
+| Modelling human mobility patterns                           | ERSA scientific committee                                                                          | February 2022, Warsaw, Poland        |
+|                                                             |                                                                                                    |                                      |
+|                                                             | <https://ersa.org/events/4th-ersa-winter-school/>                                                  |                                      |
++-------------------------------------------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------+

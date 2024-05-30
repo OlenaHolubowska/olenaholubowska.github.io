@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "me.html",
+    "href": "me.html",
+    "title": "My Website",
+    "section": "",
+    "text": "I work full-time at KU Leuven University in Belgium as a PhD researcher. My current position mostly includes research activities, but also involves some teaching and supervising. I’m always open to new projects and collaborations. If you would like to exchange some ideas, please send me a message at olena.holubowska@kuleuven.be\n\n\n\nFor the past two years, I’ve been assisting with a course on Introduction to Geoprocessing. In this course, students learn how to use Python for geographical analysis\n\n\n\nI have a Master’s degree in Mathematical Modelling and Computation from the Technical University of Denmark. Before that, I obtained a Bachelor’s degree in Mechanical Engineering from VIA University College and Beijing Institute of Technology, during which I gained my first experiences as a lecturer (09.2016-02.2017). My initial research experiences were acquired while working at CERN (06.2018 - 06.2019) and Oxford University (07.2019 – 09.2019). My professional background mainly stems from my role as a data analyst at Maersk (12.2019 – 01.05.2021). Recently, I also completed a Postgraduate Certificate: International Module in Spatial Development Planning.\n\n\n\nI’m fluent in Polish, English, Python, and R. I have some experience with French and Matlab."
+  },
+  {
+    "objectID": "me.html#current-position",
+    "href": "me.html#current-position",
+    "title": "My Website",
+    "section": "",
+    "text": "I work full-time at KU Leuven University in Belgium as a PhD researcher. My current position mostly includes research activities, but also involves some teaching and supervising. I’m always open to new projects and collaborations. If you would like to exchange some ideas, please send me a message at olena.holubowska@kuleuven.be"
+  },
+  {
+    "objectID": "me.html#teaching",
+    "href": "me.html#teaching",
+    "title": "My Website",
+    "section": "",
+    "text": "For the past two years, I’ve been assisting with a course on Introduction to Geoprocessing. In this course, students learn how to use Python for geographical analysis"
+  },
+  {
+    "objectID": "me.html#background",
+    "href": "me.html#background",
+    "title": "My Website",
+    "section": "",
+    "text": "I have a Master’s degree in Mathematical Modelling and Computation from the Technical University of Denmark. Before that, I obtained a Bachelor’s degree in Mechanical Engineering from VIA University College and Beijing Institute of Technology, during which I gained my first experiences as a lecturer (09.2016-02.2017). My initial research experiences were acquired while working at CERN (06.2018 - 06.2019) and Oxford University (07.2019 – 09.2019). My professional background mainly stems from my role as a data analyst at Maersk (12.2019 – 01.05.2021). Recently, I also completed a Postgraduate Certificate: International Module in Spatial Development Planning."
+  },
+  {
+    "objectID": "me.html#languages",
+    "href": "me.html#languages",
+    "title": "My Website",
+    "section": "",
+    "text": "I’m fluent in Polish, English, Python, and R. I have some experience with French and Matlab."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "",
+    "section": "",
+    "text": "Coming:\n\n\n\nTitle of the talk\nName of the event\nDate & place\n\n\n\n\nPlaces of diversity\nAESOP congress\nhttps://aesop-planning.eu/paris\nJuly, 2024, Paris, France\n\n\nPlaces of diversity\nMobile Tartu\nhttps://mobiletartu.ut.ee/\nJune, 2024, Tartu, Estonia\n\n\n\nIn the past:\n\n\n\nTitle of the talk\nName of the event\nDate and place\n\n\n\n\nSegregation in Activity spaces\nSeminar series within International Module in Spatial Development Planning\nhttps://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_51671701.htm#activetab=diploma_omschrijving\nMarch 2024, Leuven, Belgium\n\n\nSegregation in Activity spaces\nKU Leuven Urban Studies Institute\nhttps://www.kuleuven.be/lusi\nMarch 2024, Leuven, Belgium\n\n\nSegregation in Activity spaces\nBROAD-ER winter school 2024\nhttps://broad-er.eu/workshop/winter-school-2024/\nJanuary 2024, Amsterdam, Netherlands\n\n\nMethods for measuring segregation in activity spaces\nNPSO Innovatiedag\nhttps://www.npso.net/Evenementen/Aankomende-evenementen/npso-innovatiedag-6de-editie6th-edition\nOctober 2023, The Hague, Netherlands\n\n\nSegregation in Activity spaces\nMobility workshop at LIM\nKU Leuven Institute for Mobility\nOctober 2023, Leuven, Belgium\n\n\nBias in human mobility research\nNetMob\nhttps://netmob.org/\nSeptember 2023, Madrid, Spain\n\n\nRelation between residential and activity space segregation\nEuropean Colloquium of Theoretical and Quantitative Geography\nhttp://www.ectqg.eu/\nSeptember 2023, Braga, Portugal\n\n\nModelling human mobility patterns\nERSA scientific committee\nhttps://ersa.org/events/4th-ersa-winter-school/\nFebruary 2022, Warsaw, Poland"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Olena Holubowska",
+    "section": "",
+    "text": "They say home is where the heart is, but what if your heart beats in a city not your own?\nI’m Olena, a weaver of cityscapes, untangling the threads that bind newcomers and locals. At KU Leuven, I research urban segregation, the whispers of “us” and “them.”\nMy current expedition? unveiling the hidden narratives etched within mobile phone data, revealing how residents with migrant backgrounds navigate the city’s unseen pathways. Understanding these journeys is the key to crafting cities that hum with belonging, for everyone."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "",
+    "section": "",
+    "text": "This paper explores urban segregation and how it affects interactions among different groups in cities. Traditionally, segregation has been studied mainly based on where people live, but this study looks at where people spend their time during daily activities as well. Using data from a mobile app for around 620,000 people, the study analyzes differences in the proportion of foreign-born residents in both residential areas and activity spaces. It finds that people tend to visit areas with different proportions of foreign-born residents compared to where they live, but this effect is influenced by individual choices. The study also investigates how this relationship varies across different sizes of cities, finding that mobility may have a greater impact on reducing segregation in larger cities."
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "Workshops & PhD schools:\n\n\n\nName of the workshop\nOrganizers\nDate & place\n\n\n\n\nComplexity72h\nCarlos III University Of Madrid\nhttps://complexity72h.com/\nJuly 2024, Madrid, Spain\n\n\nTransdisciplinary and Social Scientific Spatial Research\nIRS academy\nhttps://leibniz-irs.de/irsspra\nMay 2024, Berlin, Germany\n\n\nBROAD-ER winter school 2024\nUniversity of Amsterdam\nhttps://broad-er.eu/workshop/winter-school-2024/\nJanuary 2024, Amsterdam, Netherlands\n\n\nIce Lab Camp 2023\nIceLab\nhttps://icelab.se/event/icelab-camp-2023/\nSeptember 2023, Umea, Sweden\n\n\nWinter Workshop on Complex Systems 2023\nWWCS Steering Committee\nhttps://wwcs2023.github.io/\nJanuray 2023, Amsterdam, Netherlands\n\n\nPhD-Level Course\nPeace Research Institute Oslo\nhttps://www.prio.org/news/2917\nSeptember 2022, Oslo, Norway\n\n\nSummer Institute in Computational Social Science\nOxford University\nhttps://sicss.io/2022/oxford/\nJuly 2022, Oxford, UK\n\n\nThe ERSA Winter School 2022\nERSA scientific committee\nhttps://ersa.org/events/4th-ersa-winter-school/\nFebruary 2022, Warsaw, Poland"
+  }
+]

@@ -1,0 +1,18 @@
+---
+title: "Olena Holubowska"
+---
+
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_img.jpg"
+---
+
+::: {#about-block}
+They say home is where the heart is, but what if your heart beats in a city not your own?
+
+I'm Olena, a weaver of cityscapes, untangling the threads that bind newcomers and locals. At KU Leuven, I research urban segregation, the whispers of "us" and "them."
+
+My current expedition? unveiling the hidden narratives etched within mobile phone data, revealing how residents with migrant backgrounds navigate the city's unseen pathways. Understanding these journeys is the key to crafting cities that hum with belonging, for everyone.
+:::

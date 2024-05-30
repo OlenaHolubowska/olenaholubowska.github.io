@@ -1,0 +1,14 @@
+---
+subtitle: "Examining the Impact of Daily Urban Activity on Spatial Segregation"
+about:
+  template: jolla
+  id: about-block
+  image: "img/Untitled.png"
+  links:
+    - href: https://doi.org/10.1080/1369183X.2024.2352502
+      icon: book
+---
+
+::: {style="text-align: justify"}
+This paper explores urban segregation and how it affects interactions among different groups in cities. Traditionally, segregation has been studied mainly based on where people live, but this study looks at where people spend their time during daily activities as well. Using data from a mobile app for around 620,000 people, the study analyzes differences in the proportion of foreign-born residents in both residential areas and activity spaces. It finds that people tend to visit areas with different proportions of foreign-born residents compared to where they live, but this effect is influenced by individual choices. The study also investigates how this relationship varies across different sizes of cities, finding that mobility may have a greater impact on reducing segregation in larger cities.
+:::

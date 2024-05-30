@@ -1,0 +1,22 @@
+---
+about:
+  template: jolla
+  id: about-block
+---
+::: {#about-block}
+## Current position:
+
+I work full-time at KU Leuven University in Belgium as a PhD researcher. My current position mostly includes research activities, but also involves some teaching and supervising. I'm always open to new projects and collaborations. If you would like to exchange some ideas, please send me a message at olena.holubowska\@kuleuven.be
+
+## Teaching
+
+For the past two years, I've been assisting with a course on Introduction to Geoprocessing. In this course, students learn how to use Python for geographical analysis
+
+## Background
+
+I have a Master's degree in Mathematical Modelling and Computation from the Technical University of Denmark. Before that, I obtained a Bachelor's degree in Mechanical Engineering from VIA University College and Beijing Institute of Technology, during which I gained my first experiences as a lecturer (09.2016-02.2017). My initial research experiences were acquired while working at CERN (06.2018 - 06.2019) and Oxford University (07.2019 – 09.2019). My professional background mainly stems from my role as a data analyst at Maersk (12.2019 – 01.05.2021). Recently, I also completed a Postgraduate Certificate: International Module in Spatial Development Planning.
+
+## Languages
+
+I'm fluent in Polish, English, Python, and R. I have some experience with French and Matlab.
+::: 
